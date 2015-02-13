@@ -1,7 +1,7 @@
 {
 	"name":"Home Build",
-	"thumbnail":"pearl.png",
-	"screenshot":"pearl.png",
+	"thumbnail":"thumbnail.png",
+	"screenshot":"thumbnail.png",
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
