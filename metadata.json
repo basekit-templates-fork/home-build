@@ -1,5 +1,5 @@
 {
-	"name":"Pearl",
+	"name":"Home Build",
 	"thumbnail":"pearl.png",
 	"screenshot":"pearl.png",
 	"templateType":"standard",
@@ -13,8 +13,8 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#72d0eb",
-            "color3":"#83c028",
+            "color2":"#3F7CAC",
+            "color3":"#5bb9ae",
             "color4":"#2f353e",
             "color5":"#b4bec7",
             "color6":"#434f5b",
@@ -22,8 +22,8 @@
         },
         "Swatch 2": {
             "color1":"#ffffff",
-            "color2":"#fad247",
-            "color3":"#ff563e",
+            "color2":"#D64550",
+            "color3":"#BDBF39",
             "color4":"#1b3942",
             "color5":"#b4bec7",
             "color6":"#434f5b",
@@ -31,7 +31,7 @@
         },
         "Swatch 3": {
             "color1":"#ffffff",
-            "color2":"#71d36b",
+            "color2":"#5896E6",
             "color3":"#fa9245",
             "color4":"#272a27",
             "color5":"#b4bec7",
@@ -60,7 +60,7 @@
     "fontSwatch": {
        "title": "Raleway",
         "font1": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "30px",
             "font-weight": "500",
             "line-height": "36px",
@@ -68,7 +68,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "24px",
             "font-weight": "inherit",
             "line-height": "36px",
@@ -76,7 +76,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "18px",
             "font-weight": "inherit",
             "line-height": "28px",
@@ -84,7 +84,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "16px",
             "font-weight": "inherit",
             "line-height": "26px",
@@ -92,7 +92,7 @@
             "letter-spacing": "inherit"
         },
         "font5": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "14px",
             "font-weight": "500",
             "line-height": "28px",
@@ -100,7 +100,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "13px",
             "font-weight": "600",
             "line-height": "28px",
@@ -111,7 +111,7 @@
             "background-color-hover": "@color-swatch3"
         },
         "font7": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "16px",
             "font-weight": "inherit",
             "line-height": "26px",
@@ -121,7 +121,7 @@
             "background-color-hover": "@color-swatch2"
         },
         "font8": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "40px",
             "font-weight": "500",
             "line-height": "50px",
@@ -129,7 +129,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "24px",
             "font-weight": "500",
             "line-height": "36px",
@@ -137,7 +137,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Raleway\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Helvetica\", Arial, sans-serif",
             "font-size": "26px",
             "font-weight": "500",
             "line-height": "36px",
